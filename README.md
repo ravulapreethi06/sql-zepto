@@ -31,7 +31,7 @@ Optimizing discount strategies and inventory can increase profit margins and red
 
 Files in this Repository:
 
-zepto v2.csv – Sample data (cleaned version)
-SQL_queries.sql – SQL scripts used in analysis
-PowerBI_dashboard.png – Dashboard visualization
-Zepto Sales & Inventory Analytics (SQL + Power BI).pdf – Detailed report with insights
+#zepto v2.csv – Sample data (cleaned version)
+#SQL_queries.sql – SQL scripts used in analysis
+#zepto.pbix.png – Dashboard visualization
+#Zepto Sales & Inventory Analytics (SQL + Power BI).pdf – Detailed report with insights
